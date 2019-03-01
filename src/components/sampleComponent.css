@@ -1,0 +1,7 @@
+@import url(./auxStyleSheet.css);
+.some-Selector {
+  display: block;
+  color: aqua; }
+
+.additionalSelector {
+  visibility: hidden; }
